@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1in"
+   height="0.5in"
+   viewBox="0 0 96 48"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="schematics.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="5.8511223"
+     inkscape:cx="33.583301"
+     inkscape:cy="12.219878"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="in"
+       originx="0"
+       originy="0"
+       spacingx="0.96"
+       spacingy="0.96"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="10"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.12994;stroke-linejoin:round"
+       id="rect1"
+       width="75.670059"
+       height="27.670057"
+       x="10.164971"
+       y="10.164971" />
+    <path
+       style="fill:none;stroke:#555555;stroke-width:0.93333333;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none"
+       d="M 9.6,19.327068 H 0"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#555555;stroke-width:0.933333;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 9.5999998,28.799999 H 1.8542328e-7"
+       id="path1-1" />
+    <path
+       style="fill:none;stroke:#555555;stroke-width:0.933333;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 95.999998,28.799999 h -9.6"
+       id="path1-5" />
+    <path
+       style="fill:none;stroke:#555555;stroke-width:0.933333;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 95.999998,19.2 h -9.6"
+       id="path1-8" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66667px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;letter-spacing:0.264583px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="48.032684"
+       y="22.485107"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66667px;font-family:DroidSans;-inkscape-font-specification:DroidSans;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="48.032684"
+         y="22.485107">LAOMAO</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66667px;font-family:DroidSans;-inkscape-font-specification:DroidSans;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="48.164974"
+         y="29.568445"
+         id="tspan2">DC/DC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66667px;line-height:0px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;letter-spacing:0.264583px;text-anchor:middle;fill:#545454;fill-opacity:1;stroke:#555555;stroke-width:0.264;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="12.612291"
+       y="20.892082"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66667px;line-height:0px;font-family:DroidSans;-inkscape-font-specification:DroidSans;text-align:start;text-anchor:start;fill:#545454;fill-opacity:1;stroke:#555555;stroke-width:0.264;stroke-dasharray:none;stroke-opacity:1"
+         x="12.612291"
+         y="20.892082">VOUT+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66667px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;letter-spacing:0.264583px;text-anchor:middle;fill:#545454;fill-opacity:1;stroke:#555555;stroke-width:0.264583;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="19.626488"
+       y="30.469109"
+       id="text3-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66667px;font-family:DroidSans;-inkscape-font-specification:DroidSans;fill:#545454;fill-opacity:1;stroke:#555555;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="19.75878"
+         y="30.469109">VOUT-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66667px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;letter-spacing:0.264583px;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:#555555;stroke-width:0.264583;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="77.631058"
+       y="20.839674"
+       id="text3-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66667px;font-family:DroidSans;-inkscape-font-specification:DroidSans;fill:#000000;fill-opacity:1;stroke:#555555;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="77.763351"
+         y="20.839674">VIN+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66667px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;letter-spacing:0.264583px;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:#555555;stroke-width:0.264583;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="78.117546"
+       y="30.465691"
+       id="text3-38"><tspan
+         sodipodi:role="line"
+         id="tspan3-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66667px;font-family:DroidSans;-inkscape-font-specification:DroidSans;fill:#000000;fill-opacity:1;stroke:#555555;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="78.24984"
+         y="30.465691">VIN-</tspan></text>
+    <g
+       id="g1"
+       transform="matrix(0.26458333,0,0,0.26458333,1.2948158,6.8432635)" />
+  </g>
+</svg>

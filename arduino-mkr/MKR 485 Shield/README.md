@@ -5,7 +5,7 @@
 This Fritzing part has been created fully from scratch, since there is no official part. The breadboard svg was taken from the [Arduino Docs](https://docs.arduino.cc/hardware/mkr-485-shield).
 
 ## Schematics
-<img src="MKR_485_schematic.svg" width="250rem" style="border: 1px solid green">
+<img src="MKR_485_schematic.svg" width="250rem">
 
 The schematics holds all the pins and connectors of the MKR board, although only a few are connected on the hardware itself. For more information, see the [Arduino Docs](https://docs.arduino.cc/hardware/mkr-485-shield).
 
